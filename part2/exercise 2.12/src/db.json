@@ -1,0 +1,32 @@
+{
+  "Country":[
+    { 
+      "Name": "India", 
+      "Capital": "Delhi", 
+      "Population": "130,00,00,000",
+      "Languages" :["Hindi","Telugu"],
+      "id": 1
+    },
+    { 
+      "Name": "UK", 
+      "Capital": "London", 
+      "Population": "6,66,00,00",
+      "Languages" :["English"],
+      "id": 2
+    },
+    { 
+      "Name": "Australia", 
+      "Capital": "Canberra", 
+      "Population": "2,54,00,000",
+      "Languages" :["English"],
+      "id": 3
+    },
+    { 
+      "Name": "USA", 
+      "Captital": "Washington DC", 
+      "Population": "32,82,00,00",
+      "Languages" :["English"],
+      "id": 4
+    }
+  ]
+}
